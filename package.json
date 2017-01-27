@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/ryanalane/sparks/issues"
   },
-  "homepage": "https://github.com/ryanalane/sparks#readme"
+  "homepage": "https://github.com/ryanalane/sparks#readme",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "evernote": "^2.0.1-beta",
+    "express": "^4.14.0",
+    "express-session": "^1.15.0",
+    "passport": "^0.3.2",
+    "twilio": "^2.11.1"
+  }
 }
